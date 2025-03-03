@@ -25,7 +25,7 @@ body {
 .background-container {
     width: 100%;
     min-height: 100vh;
-    background: url('/WhatsApp%20Image%202024-03-09%20at%2023.33.32_ef12f663.jpg') no-repeat center center;
+    background: url('./WhatsApp%20Image%202024-03-09%20at%2023.33.32_ef12f663.jpg') no-repeat center center;
     background-size: cover; 
     display: flex;
     background-color: rgba(0, 0, 0, 0.7); 
